@@ -1,1 +1,2 @@
-# A Simple Drum-Kit Using Javascript
+# drum-kit
+A Simple Drum-Kit Using Javascript
